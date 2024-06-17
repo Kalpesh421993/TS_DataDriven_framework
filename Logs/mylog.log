@@ -1,0 +1,119 @@
+[INFO ] 2024-06-14 15:41:13.401 [main] test - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-06-14 15:41:15.269 [main] test - Clicked on sign in link
+[INFO ] 2024-06-14 15:41:15.599 [main] test - Entered email address
+[INFO ] 2024-06-14 15:41:15.795 [main] test - Entered password
+[INFO ] 2024-06-14 15:41:17.202 [main] test - Clicked on sign in link..
+[INFO ] 2024-06-14 15:41:17.280 [main] test - VerifyLogin - Passed
+[INFO ] 2024-06-14 15:41:18.608 [main] test - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-06-14 15:41:18.647 [main] test - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-06-14 15:41:19.605 [main] test - Clicked on sign in link
+[INFO ] 2024-06-14 15:41:19.891 [main] test - Entered email address
+[INFO ] 2024-06-14 15:41:20.094 [main] test - Entered password
+[INFO ] 2024-06-14 15:41:21.250 [main] test - Clicked on sign in link..
+[INFO ] 2024-06-14 15:41:22.820 [main] test - VerifySignOut - Failed
+[INFO ] 2024-06-14 15:41:30.026 [main] test - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-06-14 15:41:31.831 [main] test - User Email and Password entered.
+[INFO ] 2024-06-14 15:41:33.202 [main] test - Sign In link clicked
+[INFO ] 2024-06-14 15:41:33.558 [main] test - Blouse entered in search box
+[INFO ] 2024-06-14 15:41:34.150 [main] test - clicked on search button
+[INFO ] 2024-06-14 15:41:36.756 [main] test - Clicked on more button
+[INFO ] 2024-06-14 15:41:41.180 [main] test - size M entered
+[INFO ] 2024-06-14 15:41:41.526 [main] test - quantity 2 entereed
+[INFO ] 2024-06-14 15:41:41.731 [main] test - Clicked on add to cart
+[INFO ] 2024-06-14 15:41:43.416 [main] test - Clicked on proceed to checkout on product page
+[INFO ] 2024-06-14 15:41:44.402 [main] test - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-06-14 15:41:45.145 [main] test - Clicked on proceed to checkout on order address page
+[INFO ] 2024-06-14 15:41:45.591 [main] test - selected term of service check box
+[INFO ] 2024-06-14 15:41:46.612 [main] test - Clicked on proceed to checkout on order shipping page
+[INFO ] 2024-06-14 15:41:46.646 [main] test - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2024-06-14 15:41:47.321 [main] test - Clicked on pay by cheque
+[INFO ] 2024-06-14 15:41:54.135 [main] test - Clicked on confirmed order
+[INFO ] 2024-06-14 15:41:54.257 [main] test - VerifyBuyProduct - Passed
+[INFO ] 2024-06-14 15:41:57.306 [main] test - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-06-14 15:41:57.315 [main] test - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-06-14 15:41:58.487 [main] test - User Email and Password entered.
+[INFO ] 2024-06-14 15:41:59.621 [main] test - Sign In link clicked
+[INFO ] 2024-06-14 15:42:04.038 [main] test - Search Product testcase - Passed
+[INFO ] 2024-06-14 15:42:05.474 [main] test - ***************TestCase Search Product ends*****************
+[INFO ] 2024-06-14 15:45:13.231 [main] test - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-06-14 15:45:14.611 [main] test - Clicked on sign in link
+[INFO ] 2024-06-14 15:45:15.012 [main] test - Entered email address
+[INFO ] 2024-06-14 15:45:15.234 [main] test - Entered password
+[INFO ] 2024-06-14 15:45:17.069 [main] test - Clicked on sign in link..
+[INFO ] 2024-06-14 15:45:17.143 [main] test - VerifyLogin - Passed
+[INFO ] 2024-06-14 15:45:18.340 [main] test - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-06-14 15:45:18.379 [main] test - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-06-14 15:45:19.220 [main] test - Clicked on sign in link
+[INFO ] 2024-06-14 15:45:19.542 [main] test - Entered email address
+[INFO ] 2024-06-14 15:45:19.813 [main] test - Entered password
+[INFO ] 2024-06-14 15:45:20.767 [main] test - Clicked on sign in link..
+[INFO ] 2024-06-14 15:45:22.239 [main] test - VerifySignOut - Passed
+[INFO ] 2024-06-14 15:45:22.240 [main] test - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-06-14 15:45:31.258 [main] test - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-06-14 15:45:33.268 [main] test - User Email and Password entered.
+[INFO ] 2024-06-14 15:45:34.703 [main] test - Sign In link clicked
+[INFO ] 2024-06-14 15:45:34.871 [main] test - Blouse entered in search box
+[INFO ] 2024-06-14 15:45:35.471 [main] test - clicked on search button
+[INFO ] 2024-06-14 15:45:37.601 [main] test - Clicked on more button
+[INFO ] 2024-06-14 15:45:41.964 [main] test - size M entered
+[INFO ] 2024-06-14 15:45:42.336 [main] test - quantity 2 entereed
+[INFO ] 2024-06-14 15:45:42.554 [main] test - Clicked on add to cart
+[INFO ] 2024-06-14 15:45:43.959 [main] test - Clicked on proceed to checkout on product page
+[INFO ] 2024-06-14 15:45:44.923 [main] test - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-06-14 15:45:45.463 [main] test - Clicked on proceed to checkout on order address page
+[INFO ] 2024-06-14 15:45:45.926 [main] test - selected term of service check box
+[INFO ] 2024-06-14 15:45:46.856 [main] test - Clicked on proceed to checkout on order shipping page
+[INFO ] 2024-06-14 15:45:46.879 [main] test - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2024-06-14 15:45:47.502 [main] test - Clicked on pay by cheque
+[INFO ] 2024-06-14 15:45:54.131 [main] test - Clicked on confirmed order
+[INFO ] 2024-06-14 15:45:54.213 [main] test - VerifyBuyProduct - Passed
+[INFO ] 2024-06-14 15:45:55.878 [main] test - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-06-14 15:45:55.892 [main] test - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-06-14 15:45:57.010 [main] test - User Email and Password entered.
+[INFO ] 2024-06-14 15:45:58.169 [main] test - Sign In link clicked
+[INFO ] 2024-06-14 15:45:59.592 [main] test - Search Product testcase - Passed
+[INFO ] 2024-06-14 15:46:01.630 [main] test - ***************TestCase Search Product ends*****************
+[INFO ] 2024-06-14 16:00:43.107 [main] test - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-06-14 16:00:44.560 [main] test - Clicked on sign in link
+[INFO ] 2024-06-14 16:00:44.910 [main] test - Entered email address
+[INFO ] 2024-06-14 16:00:45.148 [main] test - Entered password
+[INFO ] 2024-06-14 16:00:46.399 [main] test - Clicked on sign in link..
+[INFO ] 2024-06-14 16:00:46.490 [main] test - VerifyLogin - Passed
+[INFO ] 2024-06-14 16:00:47.808 [main] test - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-06-14 16:00:47.840 [main] test - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-06-14 16:00:48.706 [main] test - Clicked on sign in link
+[INFO ] 2024-06-14 16:00:48.988 [main] test - Entered email address
+[INFO ] 2024-06-14 16:00:49.183 [main] test - Entered password
+[INFO ] 2024-06-14 16:00:50.211 [main] test - Clicked on sign in link..
+[INFO ] 2024-06-14 16:00:51.696 [main] test - VerifySignOut - Passed
+[INFO ] 2024-06-14 16:00:51.697 [main] test - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-06-14 16:00:58.178 [main] test - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-06-14 16:01:00.059 [main] test - User Email and Password entered.
+[INFO ] 2024-06-14 16:01:01.758 [main] test - Sign In link clicked
+[INFO ] 2024-06-14 16:01:02.232 [main] test - Blouse entered in search box
+[INFO ] 2024-06-14 16:01:03.837 [main] test - clicked on search button
+[INFO ] 2024-06-14 16:01:05.390 [main] test - Clicked on more button
+[INFO ] 2024-06-14 16:01:09.724 [main] test - size M entered
+[INFO ] 2024-06-14 16:01:10.048 [main] test - quantity 2 entereed
+[INFO ] 2024-06-14 16:01:10.279 [main] test - Clicked on add to cart
+[INFO ] 2024-06-14 16:01:11.681 [main] test - Clicked on proceed to checkout on product page
+[INFO ] 2024-06-14 16:01:12.854 [main] test - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-06-14 16:01:13.770 [main] test - Clicked on proceed to checkout on order address page
+[INFO ] 2024-06-14 16:01:13.927 [main] test - selected term of service check box
+[INFO ] 2024-06-14 16:01:14.773 [main] test - Clicked on proceed to checkout on order shipping page
+[INFO ] 2024-06-14 16:01:14.806 [main] test - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2024-06-14 16:01:15.530 [main] test - Clicked on pay by cheque
+[INFO ] 2024-06-14 16:01:22.111 [main] test - Clicked on confirmed order
+[INFO ] 2024-06-14 16:01:22.173 [main] test - VerifyBuyProduct - Passed
+[INFO ] 2024-06-14 16:01:23.797 [main] test - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-06-14 16:01:23.816 [main] test - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-06-14 16:01:25.151 [main] test - User Email and Password entered.
+[INFO ] 2024-06-14 16:01:26.335 [main] test - Sign In link clicked
+[INFO ] 2024-06-14 16:01:27.882 [main] test - Search Product testcase - Passed
+[INFO ] 2024-06-14 16:01:29.324 [main] test - ***************TestCase Search Product ends*****************
